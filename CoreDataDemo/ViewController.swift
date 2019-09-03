@@ -4,7 +4,7 @@
 //
 //  Created by Alexey Efimov on 02/09/2019.
 //  Copyright © 2019 Alexey Efimov. All rights reserved.
-//
+// Add new methods for editing and removing element from table by Andrey Heifetz 03.09.2019
 
 import UIKit
 import CoreData
